@@ -1,7 +1,7 @@
 
 ############################################################################################
 
-# prompt: can you make edges prominant , cant see clearly
+# network creation
 
 import networkx as nx
 import numpy as np
